@@ -9,7 +9,7 @@ import Link from "next/link";
 const RecentProjects = () => {
     return (
         <section className="py-20" id="projects">
-            <h1 className="heading">
+            <h1 className="heading ">
                 My{" "}
                 <span className="text-purple">recent projects</span>
             </h1>
